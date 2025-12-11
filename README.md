@@ -49,7 +49,7 @@ Results:
 <img src="https://github.com/nsankareswari-70/CoffeeShop-Dashboard/blob/67932be4e47e0074079d88d29278e11dab1b0f29/cshop2.png">
 
 Data Driven Insights:
-From the above Hour of Day chart for Lower Manhattan location after 6pm - Number of transactions is very low.So maybe we are losing money by keeping store open past 6 o'clock and improve our margin by changing the operating hours.
+From the above Hour of Day chart for Lower Manhattan location after 6pm - Number of transactions is very low.So maybe we are losing money by keeping store open past 6 o'clock and can improve our margin by changing the operating hours.
 Barista Espresso seems to be the popular product in this area.Coffee and Tea are the next best selling products.
 
 
