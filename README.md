@@ -38,8 +38,9 @@ Results:
 - Insert a PivotTable on a new tab to show revenue by month
 - Add two more PivotTables (on the same sheet) to show the number of transactions by day of week and hour of day.
 - Add a PivotTable (on the same sheet) to show the number of transactions by product category, sorted descending by transactions.
-- Add a PivotTable (on the same sheet) to show the number of transactions and revenue by product type, sorted descending and filtered to the Toop 15 (by transactions)
-  
+- Add a PivotTable (on the same sheet) to show the number of transactions and revenue by product type, sorted descending and filtered to the Top 15 (by transactions)
+<img src="https://github.com/nsankareswari-70/CoffeeShop-Dashboard/blob/1ffece6851071d2de403372ce27fa9ceec105af0/cshop1.png">
+
   
   
 
