@@ -1,5 +1,5 @@
 ### CoffeeShop-Dashboard
-<img src="https://github.com/nsankareswari-70/CoffeeShop-Dashboard/blob/e2adf22103773699cd8cc4bd5d5432b15bdcfb42/coffeeshop.png" height=300 width = 500>
+<img src="https://github.com/nsankareswari-70/CoffeeShop-Dashboard/blob/e2adf22103773699cd8cc4bd5d5432b15bdcfb42/coffeeshop.png" height=300 width = 300>
 Project Overview:
 
 To better understand customer purchase behavior and streamline operational efficiency, I collected transactional data from January to June 2023. The primary goal of this project is to transform the raw dataset into an interactive, dynamic dashboard that franchise owners can use to identify key patterns, trends, and opportunities for business growth.
