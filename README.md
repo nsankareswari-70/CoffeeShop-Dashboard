@@ -13,3 +13,10 @@ Perform exploratory data analysis (EDA) to summarize sales performance, customer
 
 Build a Dynamic Dashboard to Visualize Key Patterns and Trends
 Develop a user-friendly, interactive dashboard that enables franchise owners to filter, drill down, and visualize sales trends, purchasing patterns, and operational insights to support data-driven decision making.
+
+### PREPARE THE DATA FOR ANALYSIS
+- Getting familiarize with the data. How many transactions were recorded. Over what period of time? What products and product categories were sold?
+- Add a new column to calculate Revenue(price*quantity)
+- Add new columns to calculate Month and Dayofweek based on the transaction date( In addition to that display them as text - January,February.. and for days Sun,Mon,Tue ..)
+- Add a new column to extract Hour from the transaction time.
+  
