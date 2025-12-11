@@ -31,6 +31,15 @@ Results:
 6.Flavours 7.Loose Tea 8.Packaged Chocolate 9.Tea
 
   By applying Filter for the table columns we can see the available products from the Product type column.
+  Create a new column for Revenue to multiply price*quantity and make it as currency format with two decimal places.
+  From the Transaction Date,Transaction time columns we can create new columns by using power query or by simply using excel functions like month(),day(),dayofweek(),hour() and text() functions.
+
+### EXPLORE THE DATA WITH PIVOT TABLES
+- Insert a PivotTable on a new tab to show revenue by month
+- Add two more PivotTables (on the same sheet) to show the number of transactions by day of week and hour of day.
+- Add a PivotTable (on the same sheet) to show the number of transactions by product category, sorted descending by transactions.
+- Add a PivotTable (on the same sheet) to show the number of transactions and revenue by product type, sorted descending and filtered to the Toop 15 (by transactions)
+  
   
   
 
