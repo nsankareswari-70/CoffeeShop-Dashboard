@@ -15,7 +15,7 @@ Perform exploratory data analysis (EDA) to summarize sales performance, customer
 Build a Dynamic Dashboard to Visualize Key Patterns and Trends
 Develop a user-friendly, interactive dashboard that enables franchise owners to filter, drill down, and visualize sales trends, purchasing patterns, and operational insights to support data-driven decision making.
 
-### PREPARE THE DATA FOR ANALYSIS
+### PREPARING THE DATA FOR ANALYSIS
 - Getting familiarize with the data. How many transactions were recorded. Over what period of time? What products and product categories were sold?
 - Adding a new column to calculate Revenue(price*quantity)
 - Adding new columns to calculate Month and Dayofweek based on the transaction date( In addition to that display them as text - January,February.. and for days Sun,Mon,Tue ..)
@@ -34,19 +34,20 @@ Results:
   Create a new column for Revenue to multiply price*quantity and make it as currency format with two decimal places.
   From the Transaction Date,Transaction time columns we can create new columns by using power query or by simply using excel functions like month(),day(),dayofweek(),hour() and text() functions.
 
-### EXPLORE THE DATA WITH PIVOT TABLES
+### EXPLORING THE DATA WITH PIVOT TABLES
 - Inserting a PivotTable on a new tab to show revenue by month
 - Adding two more PivotTables (on the same sheet) to show the number of transactions by day of week and hour of day.
 - Adding a PivotTable (on the same sheet) to show the number of transactions by product category, sorted descending by transactions.
 - Adding a PivotTable (on the same sheet) to show the number of transactions and revenue by product type, sorted descending and filtered to the Top 15 (by transactions)
 <img src="https://github.com/nsankareswari-70/CoffeeShop-Dashboard/blob/1ffece6851071d2de403372ce27fa9ceec105af0/cshop1.png">
 
-### BUILD A DYNAMIC DASHBOARD
+### BUILDING A DYNAMIC DASHBOARD
 - Adding Pivot Charts to show revenue by month as a line chart, transactions by day of week and hour of day as column charts and transactions by product category as a bar chart.
 - Assembling the charts into a rough dashboard layout, and include space for the PivotTable showing Top 15 product types.
 - Adding a slicer for store location and connect it to all of the PivotTables on the sheet
 - Adjusting formats, alignments and polishing to finalize the dashboard (like removing unwanted buttons and gridlines from the chart)
 <img src="https://github.com/nsankareswari-70/CoffeeShop-Dashboard/blob/67932be4e47e0074079d88d29278e11dab1b0f29/cshop2.png">
+
 
 
   
