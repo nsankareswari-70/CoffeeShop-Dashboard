@@ -48,6 +48,8 @@ Results:
 - Adjusting formats, alignments and polishing to finalize the dashboard (like removing unwanted buttons and gridlines from the chart)
 <img src="https://github.com/nsankareswari-70/CoffeeShop-Dashboard/blob/67932be4e47e0074079d88d29278e11dab1b0f29/cshop2.png">
 
+Data driven Insights
+From the above Hour of Day chart for Lower Manhattan location after 6pm - Number of transactions is very low.So maybe we are losing money by keeping store open past 6 o'clock and improve our margin by changing the operating hours.
 
 
   
