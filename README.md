@@ -17,9 +17,9 @@ Develop a user-friendly, interactive dashboard that enables franchise owners to 
 
 ### PREPARE THE DATA FOR ANALYSIS
 - Getting familiarize with the data. How many transactions were recorded. Over what period of time? What products and product categories were sold?
-- Add a new column to calculate Revenue(price*quantity)
-- Add new columns to calculate Month and Dayofweek based on the transaction date( In addition to that display them as text - January,February.. and for days Sun,Mon,Tue ..)
-- Add a new column to extract Hour from the transaction time.
+- Adding a new column to calculate Revenue(price*quantity)
+- Adding new columns to calculate Month and Dayofweek based on the transaction date( In addition to that display them as text - January,February.. and for days Sun,Mon,Tue ..)
+- Adding a new column to extract Hour from the transaction time.
 Results:
 - How many transactions were recorded?
 149456
@@ -35,12 +35,17 @@ Results:
   From the Transaction Date,Transaction time columns we can create new columns by using power query or by simply using excel functions like month(),day(),dayofweek(),hour() and text() functions.
 
 ### EXPLORE THE DATA WITH PIVOT TABLES
-- Insert a PivotTable on a new tab to show revenue by month
-- Add two more PivotTables (on the same sheet) to show the number of transactions by day of week and hour of day.
-- Add a PivotTable (on the same sheet) to show the number of transactions by product category, sorted descending by transactions.
-- Add a PivotTable (on the same sheet) to show the number of transactions and revenue by product type, sorted descending and filtered to the Top 15 (by transactions)
+- Inserting a PivotTable on a new tab to show revenue by month
+- Adding two more PivotTables (on the same sheet) to show the number of transactions by day of week and hour of day.
+- Adding a PivotTable (on the same sheet) to show the number of transactions by product category, sorted descending by transactions.
+- Adding a PivotTable (on the same sheet) to show the number of transactions and revenue by product type, sorted descending and filtered to the Top 15 (by transactions)
 <img src="https://github.com/nsankareswari-70/CoffeeShop-Dashboard/blob/1ffece6851071d2de403372ce27fa9ceec105af0/cshop1.png">
 
+### BUILD A DYNAMIC DASHBOARD
+- Adding Pivot Charts to show revenue by month as a line chart, transactions by day of week and hour of day as column charts and transactions by product category as a bar chart.
+- Assembling the charts into a rough dashboard layout, and include space for the PivotTable showing Top 15 product types.
+- Adding a slicer for store location and connect it to all of the PivotTables on the sheet
+- Adjusting formats, alignments and polishing to finalize the dashboard (like removing unwanted buttons and gridlines from the chart)
   
   
 
