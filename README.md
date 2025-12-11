@@ -46,7 +46,9 @@ Results:
 - Assembling the charts into a rough dashboard layout, and include space for the PivotTable showing Top 15 product types.
 - Adding a slicer for store location and connect it to all of the PivotTables on the sheet
 - Adjusting formats, alignments and polishing to finalize the dashboard (like removing unwanted buttons and gridlines from the chart)
-  
+<img src="https://github.com/nsankareswari-70/CoffeeShop-Dashboard/blob/67932be4e47e0074079d88d29278e11dab1b0f29/cshop2.png">
+
+
   
 
   
